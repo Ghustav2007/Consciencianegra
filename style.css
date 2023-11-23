@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    background-color: orange;
+}
+
+h1{
+    font-family: sans-serif;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: center;
+}
+p{
+    font-family: sans-serif;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: center;
+    background-color: orange;
+    
+    
+
+}
+
+img{
+    margin: right 150px;
+    margin-left: 150px;
+    margin-top: center;
+    border-radius: 100px;
+}
